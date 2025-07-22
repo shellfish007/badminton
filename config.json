@@ -1,0 +1,12 @@
+{
+    "startDate":"",
+    "days": 14,
+    "filterDesiredCourts": true,
+    "filterMinDuration": true,
+    "orgId":"8848",
+    "TimeZone":"America/New_York",
+    "UiCulture":"en-US",
+    "CostTypeId":"98331",
+    "CustomSchedulerId":"",
+    "ReservationMinInterval":60
+}
